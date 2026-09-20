@@ -1,0 +1,5 @@
+INSERT INTO roles (name)
+VALUES
+    ('PLATFORM_ADMIN'),
+    ('TENANT_ADMIN'),
+    ('GATEWAY_SERVICE');
